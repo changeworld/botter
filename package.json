@@ -1,0 +1,23 @@
+{
+  "name": "botter",
+  "version": "1.0.0",
+  "description": "My Bot Framework bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changeworld/botter.git"
+  },
+  "author": "Takashi Takebayashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/changeworld/botter/issues"
+  },
+  "homepage": "https://github.com/changeworld/botter#readme",
+  "dependencies": {
+    "botbuilder": "^3.3.0",
+    "restify": "^4.1.1"
+  }
+}
